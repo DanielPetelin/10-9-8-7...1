@@ -5,7 +5,7 @@
 
 var i = 0;
 
-while (i < 100) {
+while (i < 100) { //выводим числа от 1 до 100.
     console.log(i);
     i++;
 }
