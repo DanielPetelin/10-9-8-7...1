@@ -27,6 +27,6 @@
 var i = 10;
 
 do {
-    console.log(i);
-    i--;
-} while (i > 0);
+    console.log(i);//вывод i
+    i--;//i в обратном порядке
+} while (i > 0);//пока i не равно 0;
