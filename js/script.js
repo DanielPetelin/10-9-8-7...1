@@ -20,8 +20,13 @@
 
 //Цикл "do...while"
 
-var i = 10;
-
 //do {
     // тело цикла
 //} while (состояние);
+
+var i = 10;
+
+do {
+    console.log(i);
+    i--;
+} while (i > 0);
